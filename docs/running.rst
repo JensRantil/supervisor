@@ -256,3 +256,7 @@ There are some answers at Serverfault in case you get stuck:
 `How to automatically start supervisord on Linux (Ubuntu)`__
 
 .. __: http://serverfault.com/questions/96499/how-to-automatically-start-supervisord-on-linux-ubuntu
+
+You may also use a supervisor instance that automatically starts a
+supervisor instance, that automatically starts a supervisor instance...
+Nah, just kidding.
